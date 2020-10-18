@@ -36,6 +36,8 @@ print(Fore.LIGHTCYAN_EX + """\
 ╚═╝  ╚═══╝╚═╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝     ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝
 
 Created BY https://cracked.to/ANG for Cracked.to | 🍑 No token grabber I "promise" 🍑
+
+👊Need a refund or SE? https://discord.com/invite/greentea 👊
                                                                                  
 
  """ + Fore.RESET)
